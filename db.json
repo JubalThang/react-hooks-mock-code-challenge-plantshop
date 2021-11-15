@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "The Seer",
+      "image": "https://i.etsystatic.com/19507635/r/il/34fd95/3146674819/il_794xN.3146674819_syq5.jpg",
+      "price": 5,
+      "id": 8
     }
   ]
 }
